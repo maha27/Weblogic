@@ -1,0 +1,2 @@
+# Weblogic
+Oracle Weblogic scripts 
